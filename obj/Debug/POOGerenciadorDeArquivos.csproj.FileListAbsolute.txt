@@ -1,0 +1,7 @@
+C:\Users\manha.cetafaju\source\repos\POOGerenciadorDeArquivos\bin\Debug\POOGerenciadorDeArquivos.exe.config
+C:\Users\manha.cetafaju\source\repos\POOGerenciadorDeArquivos\bin\Debug\POOGerenciadorDeArquivos.exe
+C:\Users\manha.cetafaju\source\repos\POOGerenciadorDeArquivos\bin\Debug\POOGerenciadorDeArquivos.pdb
+C:\Users\manha.cetafaju\source\repos\POOGerenciadorDeArquivos\obj\Debug\POOGerenciadorDeArquivos.csproj.AssemblyReference.cache
+C:\Users\manha.cetafaju\source\repos\POOGerenciadorDeArquivos\obj\Debug\POOGerenciadorDeArquivos.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafaju\source\repos\POOGerenciadorDeArquivos\obj\Debug\POOGerenciadorDeArquivos.exe
+C:\Users\manha.cetafaju\source\repos\POOGerenciadorDeArquivos\obj\Debug\POOGerenciadorDeArquivos.pdb
